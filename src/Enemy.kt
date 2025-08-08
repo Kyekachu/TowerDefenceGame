@@ -1,4 +1,4 @@
-internal class Enemy {
+internal open class Enemy {
     var hp: Int
         private set
 
